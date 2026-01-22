@@ -1,8 +1,8 @@
 package main
 
 import (
-	"github.com/nezhahq/nezha/dao"
-	"github.com/nezhahq/nezha/router"
+	"github.com/你的用户名/nezha-traffic/dao"
+	"github.com/你的用户名/nezha-traffic/router"
 )
 
 func main() {
