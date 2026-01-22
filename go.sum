@@ -1,0 +1,6 @@
+github.com/gin-gonic/gin v1.9.2 h1:nf3MSq8WL6htR28xCtE5syThIo9h9A1Xzk+mp5WoxFo=
+github.com/gin-gonic/gin v1.9.2/go.mod h1:xLq6Koa9Zp0+8vP6I3HJdmmL2I8Z+N26N6V2fZtaQ6Q=
+gorm.io/driver/sqlite v1.4.7 h1:SPdrTwN0rO4m6IhV7Pv8OTeEmuhwud8T3MxI3U3jEs0=
+gorm.io/driver/sqlite v1.4.7/go.mod h1:7tdh6p4vT2WLoOL1/9x5sP+loIh99EtVFLmnQxco7OE=
+gorm.io/gorm v1.26.4 h1:ZjtbF5SLNPxYkF0Dw9A/dV3XkY0g7aa4Gg3uTiOUtmg=
+gorm.io/gorm v1.26.4/go.mod h1:LOHjQ7fopX4+WThZ0a/Yj9DNEnfaJMiXkygpp8jR+FA=
